@@ -1,0 +1,32 @@
+
+a {
+  color: inherit;
+
+  &:hover {
+    color: #22b1ab;
+    cursor: pointer;
+  }
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 0 90px;
+}
+
+.content-container {
+  margin-top: 80px;
+}
+
+img {
+  max-width: 100%;
+}
+
+@media only screen and (max-width: 1440px) {
+}
+
+@media only screen and (max-width: 768px) {
+  .container {
+    padding: 0 30px;
+  }
+}

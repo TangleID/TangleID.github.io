@@ -1,0 +1,45 @@
+{
+  "name": "tanlgeid-landing",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://tangleid.github.io",
+  "dependencies": {
+    "gh-pages": "^2.0.0",
+    "lint-staged": "^7.3.0",
+    "node-sass": "^4.9.3",
+    "prettier": "^1.14.3",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-medium-image-zoom": "^3.0.14",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build -b master"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "src/**/*.{js,jsx,json,css}": [
+      "prettier --single-quote --write",
+      "git add"
+    ]
+  },
+  "devDependencies": {
+    "husky": "^1.0.1"
+  }
+}

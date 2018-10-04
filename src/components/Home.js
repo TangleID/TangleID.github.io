@@ -40,14 +40,13 @@ class Home extends React.Component {
 
           <h4 className="section-title">1. Traceability of Data</h4>
           <p>
-            TangleID aims to convert your digital footprints into digital assets
-            with the principle of Decentralized Identifiers (DIDs). Based on
-            blockchain technology, our mission is to propose a more efficient
-            solution to not merely identity authentication but digital asset
-            management, and further create a highly potential data marketplace
-            for digial footprints. Therefore, TangleID try hard to re-build the
-            trust by both machine-to-machine (M2M) mechanics and distributed
-            ledger technology (DLT), which is also known as blochchain.
+            Traceability and security admittedly catch everyone’s attention
+            after a series of data breaches. Meanwhile, the ongoing collapses of
+            trust in traditional organizations and institutions imply the
+            potential risks of centralization, not to mention the implementation
+            of General Data Protection Regulation (GDPR) by the EU. TangleID
+            allows users to quantify their digital footprints as assets and
+            further to manage their digital properties.
           </p>
 
           <h4 className="section-title">2. GDPR-Complianced Solution</h4>

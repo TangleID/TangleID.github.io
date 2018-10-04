@@ -8,7 +8,7 @@ class Home extends React.Component {
         <section className="section">
           <h3 className="section-title">What is TangleID?</h3>
           <p>
-            Give you a unique identity to transform digital footprints into
+            Give you an unique identity to transform digital footprints into
             property.
           </p>
         </section>
@@ -17,13 +17,13 @@ class Home extends React.Component {
           <h3 className="section-title">About TangleID: One Principle</h3>
           <p>
             TangleID aims to convert your digital footprints into digital assets
-            with the principle of Decentralized Identifiers (DIDs). Based on
+            with the principle of Decentralized Identifiers (DIDs). Based on the
             blockchain technology, our mission is to propose a more efficient
             solution to not merely identity authentication but digital asset
             management, and further create a highly potential data marketplace
-            for digial footprints. Therefore, TangleID try hard to re-build the
-            trust by both machine-to-machine (M2M) mechanics and distributed
-            ledger technology (DLT), which is also known as blochchain.
+            for digital footprints. Therefore, TangleID tries hard to re-build
+            the trust by both machine-to-machine (M2M) mechanics and distributed
+            ledger technology (DLT), which is also known as blockchain.
           </p>
         </section>
 

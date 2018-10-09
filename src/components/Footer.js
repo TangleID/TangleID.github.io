@@ -41,6 +41,16 @@ class Footer extends React.Component {
                 Download the App
               </a>
             </div>
+            <div className="footer-nav">
+              <div className="title">Docs</div>
+              <a
+                href="https://tangleid.github.io/docs"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                API Reference
+              </a>
+            </div>
           </div>
         </div>
       </footer>

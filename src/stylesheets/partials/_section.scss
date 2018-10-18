@@ -7,3 +7,20 @@
   line-height: 20px;
   margin-bottom: 20px;
 }
+
+.section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+
+  .section-header {
+    display: inline-block;
+  }
+
+  .section-controls {
+    display: flex;
+    flex-grow: 1;
+    max-width: 230px;
+    justify-content: space-between;
+  }
+}

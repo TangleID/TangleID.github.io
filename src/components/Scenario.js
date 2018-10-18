@@ -12,7 +12,29 @@ class Scenario extends Component {
     return (
       <div className="container">
         <section className="section">
-          <h3 className="section-title">Scenario</h3>
+          <div className="section-header">
+            <h3 className="section-title">Certification Scenario</h3>
+            <div className="section-controls">
+              <a
+                className="button button-primary"
+                href="http://demokits.biilabs.io:4500"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Demo
+              </a>
+              <a
+                className="button"
+                href="https://github.com/TangleID/demo-site"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <i className="icon fab fa-github" />
+                Download
+              </a>
+            </div>
+          </div>
+
           <p>
             In the digital world, entities, such as individuals, organizations
             or devices, generate many digital footprints in daily activities.

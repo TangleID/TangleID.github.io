@@ -6,7 +6,8 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 
 import Home from './components/Home';
-import Scenario from './components/Scenario';
+import ScenarioPage from './pages/ScenarioPage';
+import CertificationPage from './pages/scenario/CertificationPage';
 
 import './stylesheets/main.scss';
 
@@ -19,7 +20,8 @@ class App extends Component {
 
           <div className="content-container">
             <Route exact path="/" component={Home} />
-            <Route path="/scenario" component={Scenario} />
+            <Route path="/scenario" component={ScenarioPage} />
+            <Route path="/certification" component={CertificationPage} />
           </div>
 
           <Footer />

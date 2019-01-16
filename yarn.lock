@@ -8328,6 +8328,11 @@ react-error-overlay@^5.0.0:
   resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-5.0.0.tgz#d5366b4c52869dba79d742fe2362b4510162de3a"
   integrity sha512-Rigv3LVfvf1V4UsOvRsoFlrLm5BjDf9aI10Z+7h1QGE0QClq0yq5QBUimGwJbwYbtwZAgMQd64D9Z4ou/OAqkA==
 
+react-icons@^3.2.2:
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/react-icons/-/react-icons-3.2.2.tgz#7b1dc795004a119a35175e62ecef91e5c9c90962"
+  integrity sha512-0DiXTcECUNoMvze2zcFwYYrHAFgQ2rBM0+HIHfaECKRfE1NZYwfuUSbwyg9s1uVPuy7o/KqQKSwBGMWQFvdrhQ==
+
 react-medium-image-zoom@^3.0.14:
   version "3.0.14"
   resolved "https://registry.yarnpkg.com/react-medium-image-zoom/-/react-medium-image-zoom-3.0.14.tgz#46ef73ffb206bd3bf7c65b7b4b4dc0ac26370a68"

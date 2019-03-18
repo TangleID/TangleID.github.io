@@ -8,7 +8,7 @@ class Footer extends React.Component {
           <div className="footer-wrap">
             <div className="footer-logo">
               <span>TangleID</span>
-              <p>Copyright (C) 2017-2019 BiiLabs, Co. Ltd. and Contributors</p>
+              <p>Copyright (C) 2017-2019 BiiLabs Co., Ltd. and Contributors</p>
             </div>
             <div className="footer-nav">
               <div className="title">Github</div>

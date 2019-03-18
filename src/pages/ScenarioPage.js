@@ -32,7 +32,7 @@ class ScenarioPage extends Component {
               <div className="section-controls">
                 <a
                   className="button button-primary"
-                  href="http://demokits.biilabs.io:4500"
+                  href="http://demokits.biilabs.io/certification"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

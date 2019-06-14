@@ -13,28 +13,21 @@ class Footer extends React.Component {
             <div className="footer-nav">
               <div className="title">Github</div>
               <a
-                href="https://github.com/TangleID"
+                href="https://github.com/TangleID/TangleID"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 TangleID
               </a>
               <a
-                href="https://github.com/TangleID/tangleid-did"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                TangleID DID
-              </a>
-              <a
-                href="https://github.com/TangleID/tangleid-client"
+                href="https://github.com/visuallylab/BiiMe"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 TangleID Client App
               </a>
               <a
-                href="https://github.com/TangleID/tangleid-client/releases"
+                href="https://drive.google.com/file/d/1PQTnliJHsVdgszT3lCz2L9sF7yqBzwuo/view"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -44,7 +37,7 @@ class Footer extends React.Component {
             <div className="footer-nav">
               <div className="title">Docs</div>
               <a
-                href="https://tangleid.github.io/docs"
+                href="https://github.com/TangleID/TangleID/wiki"
                 target="_blank"
                 rel="noopener noreferrer"
               >

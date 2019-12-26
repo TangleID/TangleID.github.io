@@ -16,15 +16,6 @@ const CertificationPage = () => {
             >
               Demo
             </a>
-            <a
-              className="button"
-              href="https://github.com/TangleID/demo-site"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <i className="icon fab fa-github" />
-              Download
-            </a>
           </div>
         </div>
 
